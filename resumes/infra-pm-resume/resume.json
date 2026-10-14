@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Ariff Azman",
+    "label": "Infrastructure & Platform Engineer",
+    "email": "contact@opariffazman.com",
+    "phone": "(+60) 12441xxxx",
+    "website": "trainer.opariffazman.com",
+    "summary": "Infrastructure and platform engineer with a decade of experience delivering cloud-native systems and AI automation across gaming and enterprise environments. Standardized CI/CD across 8 projects, cut release cycle time by 70%, and automated infrastructure management for 1,000+ resources. Combines Terraform, Kubernetes, and cloud-agnostic architecture with hands-on agentic AI and self-hosted LLM tooling, and a record of leading cross-functional delivery, developer onboarding, and operational excellence.",
+    "location": {
+      "city": "Negeri Sembilan",
+      "countryCode": "MY"
+    }
+  },
+  "skills": [
+    {
+      "name": "AI Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "AI Agents",
+        "Agentic AI",
+        "Claude Code",
+        "MCP",
+        "RAG",
+        "Embeddings",
+        "pgvector",
+        "LLMs",
+        "Ollama",
+        "OpenWebUI",
+        "LiteLLM",
+        "vLLM",
+        "n8n"
+      ]
+    },
+    {
+      "name": "Infrastructure Management",
+      "level": "Advanced",
+      "keywords": [
+        "Terraform",
+        "Terragrunt",
+        "Ansible",
+        "CloudFormation",
+        "ARM Template",
+        "Proxmox",
+        "AWS",
+        "Azure",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Platform Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "ArgoCD",
+        "GitLab CI",
+        "GitHub Actions",
+        "Jenkins",
+        "TeamCity",
+        "Azure Pipelines"
+      ]
+    },
+    {
+      "name": "Project & Delivery",
+      "level": "Advanced",
+      "keywords": [
+        "CI/CD standardization",
+        "Release management",
+        "Cross-team delivery",
+        "Process automation",
+        "Technical documentation",
+        "Developer onboarding"
+      ]
+    },
+    {
+      "name": "Observability & Reliability",
+      "level": "Advanced",
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "InfluxDB",
+        "Telegraf"
+      ]
+    },
+    {
+      "name": "Automation & Scripting",
+      "level": "Advanced",
+      "keywords": [
+        "PowerShell",
+        "Bash",
+        "Python",
+        "Node.js"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Double A Digital",
+      "position": "HRD Corp Accredited Trainer",
+      "website": "doubleadigital.my",
+      "startDate": "2026-03",
+      "highlights": [
+        "Founded Double A Digital to deliver HRD Corp accredited training across AI, DevOps, cloud, and software tracks",
+        "Designed and delivered 30+ programmes spanning AI engineering, cloud infrastructure, DevOps, and software",
+        "Tailored practitioner-led delivery using a decade of hands-on engineering experience across 12 industries",
+        "Earned HRD Corp Accredited Train The Trainer (ID 66095) and MBOT Certified Professional Technologist status",
+        "Certified in Microsoft Azure Fundamentals, ITIL Foundation, and Anthropic AI Fluency"
+      ]
+    },
+    {
+      "company": "EzyPay",
+      "position": "DevOps Lead",
+      "startDate": "2026-01",
+      "endDate": "2026-03",
+      "highlights": [
+        "Led company-wide adoption of agentic AI by training staff to engineer with and onboard Claude",
+        "Deployed a self-learning AI assistant grounded in company SOP and knowledge base via the internal chat platform",
+        "Automated the secure, compliant daily credit-card BAU process in 2 weeks, eliminating human error"
+      ]
+    },
+    {
+      "company": "Shiji",
+      "position": "Cloud Infra Engineer",
+      "startDate": "2025-08",
+      "endDate": "2026-01",
+      "highlights": [
+        "Boosted team efficiency by building custom tooling to operate 12+ separate AWS and Tencent accounts and environments",
+        "Automated 100% of the operational burden for new-microservice requests across the same 12 environments",
+        "Reduced business-hours downtime by improving blue-green deployment for resource-constrained environments"
+      ]
+    },
+    {
+      "company": "Nintex",
+      "position": "Platform Engineer",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "highlights": [
+        "Led migration of live services from legacy infrastructure to cloud-native architecture, ensuring zero downtime and a seamless transition",
+        "Delivered GitOps-based Kubernetes microservice deployments using Helm chart templating via GitHub and Azure pipelines",
+        "Drove cloud-agnostic standards across infrastructure components, enabling a multi-cloud setup that reduced operational costs"
+      ]
+    },
+    {
+      "company": "Seedworld",
+      "position": "DevOps Engineer",
+      "startDate": "2024-03",
+      "endDate": "2025-02",
+      "highlights": [
+        "Automated build agent provisioning for Windows and Linux servers, standardizing environments and eliminating manual configuration",
+        "Enabled traceable source-engine build testing by embedding an idempotent environment setup into CI/CD",
+        "Reduced system incidents and debugging time by introducing automatic build-error alerts for proactive issue resolution",
+        "Eliminated local compilation overhead by distributing development binaries through the CI/CD pipeline"
+      ]
+    },
+    {
+      "company": "Ammobox Studios",
+      "position": "DevOps Engineer",
+      "startDate": "2022-09",
+      "endDate": "2024-03",
+      "highlights": [
+        "Accelerated the development lifecycle by 90% by designing modular, cloud-agnostic CI/CD pipelines for 8 projects",
+        "Improved release reliability and reduced cycle time by 70% by automating end-to-end release processes for 8 games across major store platforms",
+        "Replaced manual API deployments with automated workflows integrated with IaC tooling, improving consistency and reliability",
+        "Standardized cloud resources across 5 projects with reusable Terraform modules for AWS, improving code reuse and maintainability",
+        "Developed scalable Unreal Pixel Streaming infrastructure on AWS, reducing EC2 allocation time and operational costs",
+        "Enforced cloud-native security best practices for AWS IAM roles and policies, ensuring least-privilege access and compliance",
+        "Integrated symbol uploads for 6 projects into crash and error reporting via CI/CD, enabling faster, more accurate debugging",
+        "Implemented OAuth2 single sign-on for internal services, providing secure, seamless access for developers",
+        "Improved cloud resource management efficiency by 80% with a multi-tenant automation tool built in ElectronJS",
+        "Expedited developer onboarding by managing repository setup and access across SVN, Perforce, and Git"
+      ]
+    },
+    {
+      "company": "Exxon Mobil Corporation",
+      "position": "Automation Engineer",
+      "startDate": "2021-09",
+      "endDate": "2022-09",
+      "highlights": [
+        "Led migration of production APIs from cloud to on-premise, achieving 100% uptime and operational continuity",
+        "Reduced manual Azure AD configuration steps and potential errors by 95% through scripted role assignments",
+        "Achieved 100% API test coverage and reliability by integrating automated API tests into the CI/CD pipeline",
+        "Simplified client onboarding and adoption by 90% through comprehensive API documentation",
+        "Optimized storage usage by developing API automation that prevents unintended removal of orphaned business content"
+      ]
+    },
+    {
+      "company": "Petronas Digital Sdn Bhd",
+      "position": "Infrastructure Engineer",
+      "startDate": "2018-09",
+      "endDate": "2021-09",
+      "highlights": [
+        "Optimized compute delivery time by automating provisioning and hardening, eliminating manual configuration errors",
+        "Reduced disaster-recovery completion time by 93% by automating ESXi host, storage, and VM recovery with custom scripts",
+        "Increased infrastructure management accuracy and usability to 100% with custom scripts for bulk resource operations",
+        "Maintained 99% uptime by integrating the on-premise hypervisor with automated ESXi host configuration management",
+        "Removed orphaned compute resources safely by automating housekeeping and master-inventory updates",
+        "Automated 100% of daily infrastructure health checks for 1,000+ resources, enabling proactive monitoring and faster resolution"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universiti Tenaga Nasional",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Computer Science",
+      "startDate": "2014-09",
+      "endDate": "2017-09",
+      "courses": [
+        "Full Scholarship Recipient (2014 – 2017)",
+        "Dean's List Honor (2014 – 2016)",
+        "Gold Award – ICT Research Competition (2017)",
+        "Second Runner-Up – Pro-C Programming Competition (2015)",
+        "Certified Professional Requirements Engineering Participant (2015)",
+        "Secretary – Global Outreach Program to Tokyo (2016)"
+      ]
+    }
+  ]
+}
